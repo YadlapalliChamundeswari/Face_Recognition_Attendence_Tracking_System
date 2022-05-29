@@ -13,6 +13,8 @@ Befor starting of the project install these softwares  in your system
 2)pip install django 
 3)pip install cmake
 4)pip install dlib
+Install dlib using the link given below:
+[https://www.youtube.com/watch?v=-pZEDxDRyGQ]
 5)pip install face-recognition 
 6)pip install playsound 
 7)pip install numpy
