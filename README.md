@@ -10,15 +10,15 @@ This System uses facial recognition technology to record the attendance through 
 # Installed Packages in this project
 Befor starting of the project install these softwares  in your system
 1)First Install python in your system and then install below packages<br />
-2)pip install django 
-3)pip install cmake
-4)pip install dlib
-Install dlib using the link given below:
-[https://www.youtube.com/watch?v=-pZEDxDRyGQ]
-5)pip install face-recognition 
-6)pip install playsound 
-7)pip install numpy
-8)pip install opencv-python
+2)pip install django <br />
+3)pip install cmake<br />
+4)pip install dlib<br />
+Install dlib using the link given below:<br />
+[https://www.youtube.com/watch?v=-pZEDxDRyGQ]<br />
+5)pip install face-recognition <br />
+6)pip install playsound <br />
+7)pip install numpy<br />
+8)pip install opencv-python<br />
 
 
 # If you want to run this server
