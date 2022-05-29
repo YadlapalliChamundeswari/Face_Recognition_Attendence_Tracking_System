@@ -21,5 +21,5 @@ Install dlib using the link given below:<br />
 8)pip install opencv-python<br />
 
 
-# If you want to run this server
+# If you want to run this project
 Type Python manage.py runserver to run the project
