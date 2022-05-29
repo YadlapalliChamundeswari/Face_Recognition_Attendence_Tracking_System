@@ -22,4 +22,4 @@ Install dlib using the link given below:<br />
 
 
 # If you want to run this project
-Type Python manage.py runserver to run the project
+Type Python manage.py runserver in your command prompt terminal
