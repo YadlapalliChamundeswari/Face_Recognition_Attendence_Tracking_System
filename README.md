@@ -10,7 +10,6 @@ This System uses facial recognition technology to record the attendance through 
 # Installed Packages in this project
 Befor starting of the project install these softwares  in your system
 1)First Install python in your system and then install below packages
-
 2)pip install django 
 3)pip install cmake
 4)pip install dlib
